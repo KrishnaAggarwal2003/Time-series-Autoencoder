@@ -1,2 +1,2 @@
 # Time-series-Autoencoder
-A simple Autoencoder built in Pytorch to reconstruct a Time-series signal
+A simple Autoencoder model built using Pytorch to reconstruct a Time-series signal having a sampling rate of 500 steps
